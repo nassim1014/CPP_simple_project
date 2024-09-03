@@ -1,0 +1,14 @@
+# Ignore compiled executables
+*.exe
+
+# Ignore any build directories (if you have them)
+/build/
+/debug/
+/release/
+
+# Ignore IDE-specific files (optional, depending on your setup)
+.vscode/
+.idea/
+
+# Ignore any temporary files
+*.tmp
